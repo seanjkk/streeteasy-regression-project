@@ -2,7 +2,7 @@
 
 ![nyc](images/nyc-buildings.jpg)
 
-- **The Jupyter notebook can be opened [here](streeteasy_regression_project.ipynb)**
+- **The Jupyter notebook can be opened [here](streeteasy-regression-project.ipynb)**
 
 ### Introduction
 
