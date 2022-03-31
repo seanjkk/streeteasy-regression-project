@@ -6,14 +6,13 @@
 
 ### Introduction
 
-Global warming has always been a looming threat to our planet. However, as the effects of climate change have become increasingly apparent these past years, there is now greater pressure on countries to immediately take action and reduce emissions. In this project, I will examine the carbon dioxide emissions by country over the years of 1950 - 2020.
+abc.
 
 ### The Dataset
 
-The dataset I will be using is from [Our World in Data](https://ourworldindata.org/). The file can be downloaded [here](https://github.com/owid/co2-data).
+The dataset I will be using is from [Kaggle](https://kaggle.com/). The file can be downloaded [here](https://www.kaggle.com/datasets/zohaib30/streeteasy-dataset).
 
 ### Objectives
 
-- Clean, manipulate and analyze the dataset using the Pandas library in Python
-- Create graphs using Matplotlib
-- Create an interactive dashboard using Tableau
+- Clean and manipulate the data in Python
+- Use Scikit-Learn to create a linear regression model and predict rent prices
