@@ -3,7 +3,7 @@
 ![nyc](images/nyc-buildings.jpg)
 
 - **The Jupyter notebook can be opened [here](https://nbviewer.org/github/seanjkk/streeteasy-regression-project/blob/main/Streeteasy_Regression_Project.ipynb) (nbviewer) or [here](Streeteasy_Regression_Project.ipynb) (GitHub)**
-- Please use the nbviewer link for now as GitHub has been having problems displaying Jupyter Notebooks
+- I recommend using nbviewer as GitHub has been having issues displaying output in Jupyter Notebooks
 
 ### Introduction
 
